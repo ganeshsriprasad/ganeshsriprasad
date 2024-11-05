@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Ganesh Sri Prasad and i am a passionate data engineer from Bangalore</h2>
-
 ###
 
 <h1 align="center">Hi 👋, I'm Ganesh Sri Prasad K B</h1>
