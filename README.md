@@ -9,7 +9,7 @@
  
 - 📝 I regularly write articles on [www.ganeshsriprasad.wordpress.com](www.ganeshsriprasad.wordpress.com)
  
-- 💬 Ask me about **Python , SQL**
+- 💬 Ask me about **Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , SQL**
  
 - 📫 How to reach me **ganeshsriprasadkb21@gmail.com**
  
