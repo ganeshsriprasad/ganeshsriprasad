@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshsriprasad&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsriprasad" /> </p>
  
 - 🌱 I’m currently learning **AI ML Data science**
+
+-  🎯 Portfolio website: [Portfolio](https://ganeshsriprasad.github.io/)
  
 - 📝 I regularly write articles on [www.ganeshsriprasad.wordpress.com](www.ganeshsriprasad.wordpress.com)
  
