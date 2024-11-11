@@ -9,7 +9,7 @@
 
 -  🎯 Portfolio website: [Portfolio](https://ganeshsriprasad.github.io/)
  
-- 📝 I regularly write articles on [www.ganeshsriprasad.wordpress.com](www.ganeshsriprasad.wordpress.com)
+- 📝 I regularly write articles on [www.ganeshsriprasad.wordpress.com](https://ganeshsriprasad.wordpress.com/)
  
 - 💬 Ask me about **Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , SQL**
  
