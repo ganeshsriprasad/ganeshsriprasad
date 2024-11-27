@@ -1,3 +1,5 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 ###
 
 <h1 align="center">Hi 👋, I'm Ganesh Sri Prasad K B</h1>
@@ -132,3 +134,7 @@
 
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshsriprasad" alt="ganeshsriprasad" /></a> </p>
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
